@@ -311,7 +311,7 @@ Building custom websites, WordPress sites, and template-based sites per client r
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D0117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaZahid13&layout=compact&theme=radical&hide_border=true&bg_color=0D0117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
 
 </div>
 
@@ -323,7 +323,7 @@ Building custom websites, WordPress sites, and template-based sites per client r
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TalhaZahid13&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
@@ -347,7 +347,7 @@ Building custom websites, WordPress sites, and template-based sites per client r
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TalhaZahid13/TalhaZahid13/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/TalhaZahid13/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -384,8 +384,8 @@ open_to:
 
 <a href="mailto:talhazahid710@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/muhammad-talha-881265176/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio-link.example.com"><img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/TalhaZahid13"><img src="https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://talha-portfolio-mu-nine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
