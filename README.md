@@ -335,7 +335,7 @@ Building custom websites, WordPress sites, and template-based sites per client r
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=redical&bg_color=0D0117&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaZahid13&theme=redical&bg_color=0D0117&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true"/>
 
 </div>
 
@@ -347,7 +347,7 @@ Building custom websites, WordPress sites, and template-based sites per client r
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/TalhaZahid13/TalhaZahid13/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
