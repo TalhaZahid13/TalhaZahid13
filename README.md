@@ -302,20 +302,6 @@ Building custom websites, WordPress sites, and template-based sites per client r
 
 <br/>
 
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TalhaZahid13&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
-
-</div>
-
-<br/>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
