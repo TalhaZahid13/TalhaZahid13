@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Talha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%2B%20AI%20Automation&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?gitype=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Talha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%2B%20AI%20Automation&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(React+%2F+Flutter+%2F+Node.js);AI+Automation+Engineer+%40+Ingenious+Concepts;Building+production-grade+web+%26+mobile+products;Computer+Science+%40+Riphah+International+University" alt="Typing SVG" />
@@ -16,13 +16,13 @@
 <a href="https://your-portfolio-link.example.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/muhammad-talha-881265176/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:talhazahid710@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/TalhaZahid13"><img src="https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=8B5CF6&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=A78BFA&label=STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=TalhaZahid13&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/TalhaZahid13?style=for-the-badge&color=8B5CF6&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/TalhaZahid13?style=for-the-badge&color=A78BFA&label=STARS&logo=github)
 
 </div>
 
@@ -106,7 +106,7 @@ An AI-assisted travel planning platform for exploring Pakistan, built with a Rea
 | Performance | Design system preserved 1:1 across web → Flutter port |
 | Security | Structured, documented test cases (TC-series) for QA coverage |
 | Impact | Full-cycle: architecture → admin tooling → mobile app → QA docs |
-| Repository | `github.com/YOUR_GITHUB_USERNAME/safarsync` |
+| Repository | `github.com/TalhaZahid13/safarsync` |
 
 Delivered as a complete product cycle — React/TypeScript admin panel, structured DOCX test documentation, and a full Flutter conversion of the codebase while preserving the original UI exactly.
 
@@ -125,7 +125,7 @@ A brand-accurate WordPress site for a Bahrain-based consulting firm, rebuilt as 
 | Performance | Migrated from theme customization to a standalone plugin build |
 | Security | cPanel-managed hosting, plugin-isolated logic |
 | Impact | Delivered brand-accurate site matching Primary Blue/Red identity |
-| Repository | `github.com/YOUR_GITHUB_USERNAME/sygnifin-website` |
+| Repository | `github.com/TalhaZahid13/sygnifin-website` |
 
 </details>
 
@@ -142,7 +142,7 @@ Full-stack enterprise platform built with a 5-person team covering trading, acco
 | Performance | Containerized services via Docker |
 | Security | Structured SQL data layer via SQLYog |
 | Impact | Delivered production full-stack front-end + back-end as part of core team |
-| Repository | `github.com/YOUR_GITHUB_USERNAME/directfn-platform` |
+| Repository | `github.com/TalhaZahid13/directfn-platform` |
 
 </details>
 
@@ -159,7 +159,7 @@ A full custom WordPress theme and static website built from a logo/brand PDF, in
 | Performance | Brand identity extracted and translated from source PDF |
 | Security | Custom theme, no third-party template dependency |
 | Impact | Full brand-to-site delivery, standalone deployment |
-| Repository | `github.com/YOUR_GITHUB_USERNAME/pcg-website` |
+| Repository | `github.com/TalhaZahid13/pcg-website` |
 
 </details>
 
@@ -176,7 +176,7 @@ A gamified learning platform teaching kids coding fundamentals through game-base
 | Performance | Shortlisted — Inter-University Spark Business Idea Competition 2025 |
 | Security | N/A (early-stage concept) |
 | Impact | Presented at PUCon (Punjab University Conference) with positive reception |
-| Repository | `github.com/YOUR_GITHUB_USERNAME/gamified` |
+| Repository | `github.com/TalhaZahid13/gamified` |
 
 </details>
 
@@ -186,14 +186,14 @@ A gamified learning platform teaching kids coding fundamentals through game-base
 
 | Project | Course | Repository |
 |---|---|---|
-| Tic Tac Toe Game | Programming Fundamentals | `github.com/YOUR_GITHUB_USERNAME/pf-project` |
-| My Gym | Object-Oriented Programming | `github.com/YOUR_GITHUB_USERNAME/oop-project` |
-| E-Commerce Website | Web Application Development | `github.com/YOUR_GITHUB_USERNAME/web-projects` |
-| AI-Based Code Debugger | Artificial Intelligence | `github.com/YOUR_GITHUB_USERNAME/ai-code-debugger` |
-| Operating System Project (Java) | Operating Systems | `github.com/YOUR_GITHUB_USERNAME/os-project` |
-| Design & Analysis of Algorithms | DAA | `github.com/YOUR_GITHUB_USERNAME/daa-project` |
-| Flutter Cross-Platform App | Mobile Development | `github.com/YOUR_GITHUB_USERNAME/flutter-project` |
-| Python AI Project | Artificial Intelligence | `github.com/YOUR_GITHUB_USERNAME/python-ai-project` |
+| Tic Tac Toe Game | Programming Fundamentals | `github.com/TalhaZahid13/pf-project` |
+| My Gym | Object-Oriented Programming | `github.com/TalhaZahid13/oop-project` |
+| E-Commerce Website | Web Application Development | `github.com/TalhaZahid13/web-projects` |
+| AI-Based Code Debugger | Artificial Intelligence | `github.com/TalhaZahid13/ai-code-debugger` |
+| Operating System Project (Java) | Operating Systems | `github.com/TalhaZahid13/os-project` |
+| Design & Analysis of Algorithms | DAA | `github.com/TalhaZahid13/daa-project` |
+| Flutter Cross-Platform App | Mobile Development | `github.com/TalhaZahid13/flutter-project` |
+| Python AI Project | Artificial Intelligence | `github.com/TalhaZahid13/python-ai-project` |
 
 </details>
 
@@ -306,8 +306,8 @@ Building custom websites, WordPress sites, and template-based sites per client r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D0117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D0117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TalhaZahid13&show_icons=true&theme=radical&hide_border=true&bg_color=0D0117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaZahid13&theme=radical&hide_border=true&background=0D0117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
 <br/>
 
