@@ -218,6 +218,16 @@ Building custom websites, WordPress sites, and template-based sites per client r
 
 <br/>
 
+### Mobile Application Developer (Intern) — ZNZ Communications
+`Jun 2025 – Dec 2025 · 7 mos` · Lahore, Punjab, Pakistan · On-site
+
+- Working as a **Flutter Mobile Application Developer** on the team's main project
+- Currently building **SMAC's** mobile application end-to-end
+
+`Flutter` `Dart` `Mobile Development`
+
+<br/>
+
 ### Web Developer (Intern) — DirectFN
 `Jan 2025 – Sep 2025`
 
