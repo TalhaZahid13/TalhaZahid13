@@ -291,9 +291,9 @@ Building custom websites, WordPress sites, and template-based sites per client r
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_HANDLE"><img src="https://img.shields.io/badge/LeetCode-1E1033?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+
 <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_HANDLE"><img src="https://img.shields.io/badge/GeeksforGeeks-1E1033?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/></a>
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_HANDLE"><img src="https://img.shields.io/badge/HackerRank-1E1033?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/></a>
+<a href="https://www.hackerrank.com/h46287"><img src="https://img.shields.io/badge/HackerRank-1E1033?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/></a>
 <a href="https://www.codechef.com/users/YOUR_CODECHEF_HANDLE"><img src="https://img.shields.io/badge/CodeChef-1E1033?style=for-the-badge&logo=codechef&logoColor=5B4638"/></a>
 
 </div>
